@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/archives/</loc>
+    <loc>http://luheng.site/FAU/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://luheng.site/FAU/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://luheng.site/FAU/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>http://luheng.site/FAU/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>http://luheng.site/FAU/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>http://luheng.site/FAU/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/markdown-syntax/</loc>
+    <loc>http://luheng.site/FAU/post/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>http://luheng.site/FAU/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>http://luheng.site/FAU/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>http://luheng.site/FAU/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://luheng.site/FAU/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>http://luheng.site/FAU/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/themes-guide/</loc>
+    <loc>http://luheng.site/FAU/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/privacy/</loc>
+    <loc>http://luheng.site/FAU/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/rich-content/</loc>
+    <loc>http://luheng.site/FAU/post/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>http://luheng.site/FAU/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/placeholder-text/</loc>
+    <loc>http://luheng.site/FAU/post/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/text/</loc>
+    <loc>http://luheng.site/FAU/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/math-typesetting/</loc>
+    <loc>http://luheng.site/FAU/post/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>http://luheng.site/FAU/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/emoji-support/</loc>
+    <loc>http://luheng.site/FAU/post/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>http://luheng.site/FAU/about/</loc>
   </url><url>
-    <loc>/tags/index/</loc>
+    <loc>http://luheng.site/FAU/tags/index/</loc>
   </url>
 </urlset>
