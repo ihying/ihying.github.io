@@ -6,7 +6,40 @@
     <description>Recent posts from on FAU-Lernen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://luheng.site/fau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luheng.site/fau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文档书写教程</title>
+      <link>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文档结构说明</title>
+      <link>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</guid>
+      <description>&lt;h3 id=&#34;学习资源库的结构&#34;&gt;学习资源库的结构&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;|---学习资源库.doc
+        |--- 课程1.doc
+        |--- 课程2.doc
+        |--- 课程3.doc
+        |--- 课程4.doc
+        |--- 课程5.doc
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://docs.qq.com/doc/DYk9BSHFVb3RUT210&#34;&gt;学习资源库&lt;/a&gt;作为整个资源的门库，对各个课程进行汇总，因为各个学科之间有交叉，课程目前并不进行分类处理，其次腾讯文档本身提供搜索服务，Ctrl + F 即可快速跳出搜索框对文档内容进行检索。&lt;/p&gt;
+&lt;h3 id=&#34;课程文档的结构&#34;&gt;课程文档的结构&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;|---课程.doc
+      |---微信群或者QQ群信息
+      |---课内资料（如：课程本身提供的PPT，pdf文件等）
+      |---课外辅助资料（如：慕课，pdf文档，相关书籍等）
+      |---相关练习题（如：历年的考试资料，练习题等）
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;课程文档的结构初步如此确定，后续可在实践中改进。&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://luheng.site/fau/post/markdown-syntax/</link>
