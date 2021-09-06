@@ -13,7 +13,15 @@
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</guid>
-      <description></description>
+      <description>本文主要是介绍腾讯文档的一些使用技巧，包括公共文档的建立，文件上传，文件分享，和版本管理等。相关信息可查看腾讯文档官方网站。
+常用的基本操作如下。
+文档的建立 在腾讯官网，页面的左侧，点击即可新建文档。
+当前腾讯文档可支持建立的文档类型有四类：
+- 仅我可查看（仅自己可查看/编辑文档）- 指定人（仅指定的人可查看/编辑文档）- 所有人可查看（获得链接的所有人可查看文档）- 所有人可编辑（获得链接的所有人可编辑文档） 这个学习资料分享时，大多数是使用所有人可查看，或者所有人可编辑的文档，修改文档权限的在网页右上角，如下图所示。
+文件上传 网页页面左侧，导入本地文件，上传文件后有两种选择:
+ 仅上传，该选项表示，文档上传后，仅可查看，不可编辑。 导入，导入后就变为一个腾讯文档，可编辑。  文件分享 选择文件，点击文件中的三个小点，即可看到下图的界面。可直接分享，也可复制链接，在编辑文档时，已插入链接的方式放置在文档中。
+版本管理 由于是公共编辑的文档，所以有可能出现误删的情况，但是腾讯文档本身提供了版本管理功能，即便是出现误删，可查看历史版本进行复原。 打开文档，右上角，查看修订记录，即可查看历史版本。
+写在后面的话 关于文档的使用并不复杂，尝试几次之后就会熟悉，更多是希望大家能一起来编辑这个文档，将内容丰富。</description>
     </item>
     
     <item>
@@ -22,8 +30,8 @@
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</guid>
-      <description>学习资源库的结构 |---学习资源库.doc|--- 课程1.doc|--- 课程2.doc|--- 课程3.doc|--- 课程4.doc|--- 课程5.doc学习资源库作为整个资源的门库，对各个课程进行汇总，因为各个学科之间有交叉，课程目前并不进行分类处理，其次腾讯文档本身提供搜索服务，Ctrl + F 即可快速跳出搜索框对文档内容进行检索。
-课程文档的结构 |---课程.doc|---微信群或者QQ群信息|---课内资料（如：课程本身提供的PPT，pdf文件等）|---课外辅助资料（如：慕课，pdf文档，相关书籍等）|---相关练习题（如：历年的考试资料，练习题等）课程文档的结构初步如此确定，后续可在实践中改进。</description>
+      <description>学习资源库的结构 |---学习资源库.doc|--- 课程1.doc|--- 课程2.doc|--- 课程3.doc|--- 指南1.doc|--- 攻略1.doc学习资源库作为门库，对各个资料进行汇总，当前所做的分类只要是专业课程，生活指南，游玩攻略三大板块，课程板块考虑到各个学科之间有交叉，所以目前并不对其进行分类处理，其次腾讯文档本身提供搜索服务，Ctrl + F 即可跳出搜索框，对文档内容进行检索，即便将来课程目录变多，您也可以快速找到您需要的内容。
+课程文档的结构 |---课程.doc|---课程名称|---微信群或者QQ群信息|---课内资料（如：课程本身提供的PPT，pdf文件等）|---课外辅助资料（如：慕课，pdf文档，相关书籍等）|---相关练习题（如：历年的考试资料，练习题等）可查看示例文档 ,课程文档的结构初步如此确定，后续可在实践中改进。</description>
     </item>
     
     <item>
@@ -33,42 +41,6 @@
       
       <guid>https://luheng.site/fau/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://luheng.site/fau/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://luheng.site/fau/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://luheng.site/fau/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://luheng.site/fau/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
   </channel>

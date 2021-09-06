@@ -13,7 +13,36 @@
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</guid>
-      <description></description>
+      <description>&lt;p&gt;本文主要是介绍腾讯文档的一些使用技巧，包括公共文档的建立，文件上传，文件分享，和版本管理等。相关信息可查看&lt;a href=&#34;https://docs.qq.com/home/product#doc&#34;&gt;腾讯文档官方网站&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;常用的基本操作如下。&lt;/p&gt;
+&lt;h3 id=&#34;文档的建立&#34;&gt;文档的建立&lt;/h3&gt;
+&lt;p&gt;在腾讯官网，页面的左侧，点击即可新建文档。&lt;br&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/sirlh/photo/master/T2.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;当前腾讯文档可支持建立的文档类型有四类：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 仅我可查看（仅自己可查看/编辑文档）
+- 指定人（仅指定的人可查看/编辑文档）
+- 所有人可查看（获得链接的所有人可查看文档）
+- 所有人可编辑（获得链接的所有人可编辑文档）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;这个学习资料分享时，大多数是使用所有人可查看，或者所有人可编辑的文档，修改文档权限的在网页右上角，如下图所示。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sirlh/photo/master/T1.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件上传&#34;&gt;文件上传&lt;/h3&gt;
+&lt;p&gt;网页页面左侧，导入本地文件，上传文件后有两种选择:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;仅上传，该选项表示，文档上传后，仅可查看，不可编辑。&lt;/li&gt;
+&lt;li&gt;导入，导入后就变为一个腾讯文档，可编辑。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sirlh/photo/master/T3.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;文件分享&#34;&gt;文件分享&lt;/h3&gt;
+&lt;p&gt;选择文件，点击文件中的三个小点，即可看到下图的界面。可直接分享，也可复制链接，在编辑文档时，已插入链接的方式放置在文档中。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sirlh/photo/master/T4.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;版本管理&#34;&gt;版本管理&lt;/h3&gt;
+&lt;p&gt;由于是公共编辑的文档，所以有可能出现误删的情况，但是腾讯文档本身提供了版本管理功能，即便是出现误删，可查看历史版本进行复原。
+打开文档，右上角，查看修订记录，即可查看历史版本。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/sirlh/photo/master/T5.JPG&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;写在后面的话&#34;&gt;写在后面的话&lt;/h3&gt;
+&lt;p&gt;关于文档的使用并不复杂，尝试几次之后就会熟悉，更多是希望大家能一起来编辑这个文档，将内容丰富。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -27,16 +56,17 @@
         |--- 课程1.doc
         |--- 课程2.doc
         |--- 课程3.doc
-        |--- 课程4.doc
-        |--- 课程5.doc
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://docs.qq.com/doc/DYk9BSHFVb3RUT210&#34;&gt;学习资源库&lt;/a&gt;作为整个资源的门库，对各个课程进行汇总，因为各个学科之间有交叉，课程目前并不进行分类处理，其次腾讯文档本身提供搜索服务，Ctrl + F 即可快速跳出搜索框对文档内容进行检索。&lt;/p&gt;
+        |--- 指南1.doc
+        |--- 攻略1.doc
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;a href=&#34;https://docs.qq.com/doc/DYk9BSHFVb3RUT210&#34;&gt;学习资源库&lt;/a&gt;作为门库，对各个资料进行汇总，当前所做的分类只要是专业课程，生活指南，游玩攻略三大板块，课程板块考虑到各个学科之间有交叉，所以目前并不对其进行分类处理，其次腾讯文档本身提供搜索服务，Ctrl + F 即可跳出搜索框，对文档内容进行检索，即便将来课程目录变多，您也可以快速找到您需要的内容。&lt;/p&gt;
 &lt;h3 id=&#34;课程文档的结构&#34;&gt;课程文档的结构&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;|---课程.doc
+      |---课程名称
       |---微信群或者QQ群信息
       |---课内资料（如：课程本身提供的PPT，pdf文件等）
       |---课外辅助资料（如：慕课，pdf文档，相关书籍等）
       |---相关练习题（如：历年的考试资料，练习题等）
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;课程文档的结构初步如此确定，后续可在实践中改进。&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;可查看&lt;a href=&#34;https://docs.qq.com/doc/DYndlaERyZmFMVGRn&#34;&gt;示例文档&lt;/a&gt; ,课程文档的结构初步如此确定，后续可在实践中改进。&lt;/p&gt;
 </description>
     </item>
     
@@ -185,169 +215,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://luheng.site/fau/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode&lt;/h2&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode&lt;/h2&gt;
-
-
-
-
-&lt;style type=&#34;text/css&#34;&gt;
-  .twitter-tweet {
-  font: 14px/1.45 -apple-system,BlinkMacSystemFont,&#34;Segoe UI&#34;,Roboto,Oxygen-Sans,Ubuntu,Cantarell,&#34;Helvetica Neue&#34;,sans-serif;
-  border-left: 4px solid #2b7bb9;
-  padding-left: 1.5em;
-  color: #555;
-}
-  .twitter-tweet a {
-  color: #2b7bb9;
-  text-decoration: none;
-}
-  blockquote.twitter-tweet a:hover,
-  blockquote.twitter-tweet a:focus {
-  text-decoration: underline;
-}
-&lt;/style&gt;
-
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;“In addition to being more logical, asymmetry has the advantage that its complete appearance is far more optically effective than symmetry.”&lt;br&gt;— Jan Tschichold &lt;a href=&#34;https://t.co/gcv7SrhvJb&#34;&gt;pic.twitter.com/gcv7SrhvJb&lt;/a&gt;&lt;/p&gt;&amp;mdash; Graphic Design History (@DesignReviewed) &lt;a href=&#34;https://twitter.com/DesignReviewed/status/1085870671291310081?ref_src=twsrc%5Etfw&#34;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;!-- raw HTML omitted --&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode&lt;/h2&gt;
-
-
-
-
-
-
-&lt;style&gt;
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-&lt;/style&gt;
-
-
-&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
-&lt;a href=&#34;https://vimeo.com/4.8912912e&amp;#43;07&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
-
-
-&lt;img src=&#34;https://i.vimeocdn.com/video/337401969_640&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969_640 1x, https://i.vimeocdn.com/video/337401969_640 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
-&lt;div class=&#34;play&#34;&gt;&lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://luheng.site/fau/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
-&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
-&lt;li&gt;Duce pollice&lt;/li&gt;
-&lt;li&gt;Eris modo&lt;/li&gt;
-&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
-&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
-&lt;li&gt;Flumen querellas&lt;/li&gt;
-&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
-&lt;li&gt;Quidem et&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt&lt;/h1&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat&lt;/h2&gt;
-&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
-&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
-&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://luheng.site/fau/post/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
-&lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Within this partial reference the &lt;a href=&#34;https://katex.org/docs/autorender.html&#34;&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
-&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; partial &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
-&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; end &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
-&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a href=&#34;https://katex.org/docs/supported.html&#34;&gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
-
-&lt;p&gt;Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://luheng.site/fau/post/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luheng.site/fau/post/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;.emoji {
-  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
   </channel>
