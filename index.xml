@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAU-Lernen</title>
-    <link>https://luheng.site/fau/</link>
+    <link>https://ihying.github.io/</link>
     <description>Recent posts from on FAU-Lernen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luheng.site/fau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ihying.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文档书写教程</title>
-      <link>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</link>
+      <link>https://ihying.github.io/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://ihying.github.io/post/%E6%96%87%E6%A1%A3%E4%B9%A6%E5%86%99%E6%95%99%E7%A8%8B/</guid>
       <description>&lt;p&gt;本文主要是介绍腾讯文档的一些使用技巧，包括公共文档的建立，文件上传，文件分享，和版本管理等。相关信息可查看&lt;a href=&#34;https://docs.qq.com/home/product#doc&#34;&gt;腾讯文档官方网站&lt;/a&gt;。&lt;/p&gt;
 &lt;p&gt;常用的基本操作如下。&lt;/p&gt;
 &lt;h3 id=&#34;文档的建立&#34;&gt;文档的建立&lt;/h3&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>文档结构说明</title>
-      <link>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</link>
+      <link>https://ihying.github.io/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</guid>
+      <guid>https://ihying.github.io/post/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E8%AF%B4%E6%98%8E/</guid>
       <description>&lt;h3 id=&#34;学习资源库的结构&#34;&gt;学习资源库的结构&lt;/h3&gt;
 &lt;pre&gt;&lt;code&gt;|---学习资源库.doc
         |--- 课程1.doc
@@ -72,10 +72,10 @@
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://luheng.site/fau/post/markdown-syntax/</link>
+      <link>https://ihying.github.io/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/post/markdown-syntax/</guid>
+      <guid>https://ihying.github.io/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;
 &lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on FAU-Lernen</title>
-    <link>https://luheng.site/fau/tags/index/</link>
+    <link>https://ihying.github.io/tags/index/</link>
     <description>Recent content in index on FAU-Lernen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://luheng.site/fau/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ihying.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>https://luheng.site/fau/post/</link>
+      <link>https://ihying.github.io/post/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/post/</guid>
+      <guid>https://ihying.github.io/post/</guid>
       <description></description>
     </item>
     

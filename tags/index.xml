@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FAU-Lernen</title>
-    <link>https://luheng.site/fau/tags/</link>
+    <link>https://ihying.github.io/tags/</link>
     <description>Recent content in Tags on FAU-Lernen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luheng.site/fau/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ihying.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>教程</title>
-      <link>https://luheng.site/fau/tags/%E6%95%99%E7%A8%8B/</link>
+      <link>https://ihying.github.io/tags/%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://ihying.github.io/tags/%E6%95%99%E7%A8%8B/</guid>
       <description></description>
     </item>
     
     <item>
       <title>文档结构</title>
-      <link>https://luheng.site/fau/tags/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84/</link>
+      <link>https://ihying.github.io/tags/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84/</link>
       <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84/</guid>
+      <guid>https://ihying.github.io/tags/%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://luheng.site/fau/tags/css/</link>
+      <link>https://ihying.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/css/</guid>
+      <guid>https://ihying.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://luheng.site/fau/tags/html/</link>
+      <link>https://ihying.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/html/</guid>
+      <guid>https://ihying.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://luheng.site/fau/tags/markdown/</link>
+      <link>https://ihying.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/markdown/</guid>
+      <guid>https://ihying.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://luheng.site/fau/tags/index/</link>
+      <link>https://ihying.github.io/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luheng.site/fau/tags/index/</guid>
+      <guid>https://ihying.github.io/tags/index/</guid>
       <description></description>
     </item>
     
